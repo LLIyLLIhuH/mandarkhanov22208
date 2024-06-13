@@ -1,0 +1,17 @@
+
+Ä
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜­Âî8£è€2J$5640fbf9-3a17-45e3-aea0-d385fa786ab5
+Ê
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡û¹Éıÿÿÿÿ8£è€2J$60b8882c-ada4-472e-b5b9-f13fdfd97cee
+}
+java:S1854c":Remove this useless assignment to local variable "border".(¥ù¶±8íÆè€2J$1b735bfd-944a-43b3-a8e7-c82177c78f5b
+‰
+java:S3252\"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¸ùñ½ÿÿÿÿÿ8üÆè€2J$012cdb4f-e503-4f02-b624-854d9b395b3c
+n
+java:S1481c"+Remove this unused "border" local variable.(¥ù¶±8Çè€2J$aa64a0a7-ffd1-4289-8584-1f296c7fe861
+Œ
+java:S3252{"IUse static access with "javax.swing.WindowConstants" for "HIDE_ON_CLOSE".(Á‡³8¼£è€2J$9c9399aa-a348-454a-ba02-6bc32dd60243
+’
+java:S3252‰"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(îşãáúÿÿÿÿ8À£è€2J$8a68acef-173c-45dc-8fcd-f5cc61b52534
+’
+java:S3252›"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Ğ »úÿÿÿÿ8Å£è€2J$b6f9f42c-e2f8-420c-9a8b-7fff82908009
